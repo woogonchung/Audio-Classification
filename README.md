@@ -1,4 +1,4 @@
-# Audio-Classification (Kapre Version)
+# Audio-Classification (최권우 (뉴욕) Kapre Version)
 
 Pipeline for prototyping audio classification algorithms with TF 2.3
 
