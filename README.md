@@ -1,4 +1,4 @@
-# Audio-Classification (최권우 (뉴욕) Kapre Version)
+# Audio-Classification (최권우 Kapre Version)
 
 Pipeline for prototyping audio classification algorithms with TF 2.3
 
@@ -20,7 +20,7 @@ Pipeline for prototyping audio classification algorithms with TF 2.3
 
 ### YouTube
 
-This series has been re-worked. There are new videos to support this repository. It is recommended to follow the new series.
+This series has been re-worked. There are new videos to support this repository. It is recommended to follow the new series. 새로운 버전 (최권우 Kapre)으로 재 작성.
 
 https://www.youtube.com/playlist?list=PLhA3b2k8R3t0SYW_MhWkWS5fWg-BlYqWn
 
